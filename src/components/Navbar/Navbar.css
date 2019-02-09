@@ -1,0 +1,33 @@
+.navbar li {
+    display: inline;
+    text-align: center;
+  }
+  
+  .gameSlogan {
+    width: 30%;
+    font-weight: bold;
+    font-size: 32px;
+    
+  }
+  
+  .itemCenter {
+      width: 40%;
+  }
+  
+  .itemRight {
+    width: 30%;
+  }
+  
+  .navbar {
+    background: yellow;
+    box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+  }
+  
+  li {
+    color: Red;;
+    padding: 10px 0;
+  }
+  
+  body {
+    font-size: 24px;
+  }
