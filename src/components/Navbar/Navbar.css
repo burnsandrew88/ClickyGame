@@ -6,17 +6,22 @@
   .gameSlogan {
     width: 15%;
     font-weight: bold;
-    font-size: 32px;
+    font-size: 40px;
     
   }
   
   .itemCenter {
-      width: 70%;
+      width: 60%;
+      font-size:50px;
+      color:black;
+      padding-right:25px;
+      padding-left:25px;
   }
   
   .itemRight {
-    width: 15%;
+    width: 25%;
     float: right;
+    font-weight: bold;
   }
   
   .navbar {
